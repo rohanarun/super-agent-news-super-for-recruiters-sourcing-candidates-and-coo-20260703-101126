@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[yena.ai](https://www.yena.ai/blog/agentic-recruiting-platform-guide-2026)",
+    "[superintech.com](https://superintech.com/blog/ai-for-recruitment-agencies-screening-scheduling-followup)",
+    "[shrm.org](https://news.google.com/rss/articles/CBMitAFBVV95cUxQTkdtSG5WMEh2UzEybUhLNHZPdkhic01lUW41bjFDMGpYT0JEQVFsVWhpdkNRR2pHSXdvUEZUWUtnOEhpeWFxdnNwcW52YWNibkdxdTdwODRXWWhkZnhsbW1CdU9XT2p1QXNwSFQtXzFqaFJjVnlLZlVBM2ZNZ3E2MEhMbVl1S0s2SFZ4b3ZrLU4xWldobHhQN0RNVjZBSGtRUVlXSkdZMVBUOUdROTFvbDBlSzA)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[scmedia.com](https://www.scmagazine.com/news/shell-injection-flaw-found-in-10-of-11-open-source-ai-agents)"
+  ],
+  "design_plan": "rng_seed=42; architecture=reuse_comparison_page; AIDA=pass; hero_lines=2.4; bento_density=grid-auto-flow:dense; competitors_sweep=pass; cta_contrast=black_on_paper; cache_phrase=present",
+  "generated_at": "2026-07-03T10:11:32.744229+00:00",
+  "headline": "Super for recruiters sourcing candidates and coordinating interviews",
+  "site_brief": {
+    "audience": "recruiters sourcing candidates and coordinating interviews",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "recruiters sourcing candidates and coordinating interviews AI assistant",
+      "recruiters sourcing candidates and coordinating interviews personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-recruiters-sourcing-candidates-and-coordinating",
+    "title": "Super for recruiters sourcing candidates and coordinating interviews"
+  },
+  "summary": "A conversion\u2011focused niche landing page for recruiters who spend hours sourcing candidates and coordinating interviews. The page positions Super as a personal AI agent that can actually operate recruiting tools, browsers, and calendars \u2014 and reuse a computer-use cache so repeated sourcing and scheduling workflows get faster and cheaper over time. It ties recruiter pain points to current evidence around agentic recruiting and workflow automation, while fairly situating competitors like ChatGPT, Gemini, Grok, Siri, Folk, and Orchids in the broader market."
+}
